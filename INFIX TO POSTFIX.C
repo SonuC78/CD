@@ -115,3 +115,6 @@
 	    }
 	    return op1Weight > op2Weight ?  true: false;
 	}
+  OUTPUT
+  
+  ![ss1](https://user-images.githubusercontent.com/71067828/95421026-6a63d480-08f1-11eb-964a-a21c0c31670f.png)
